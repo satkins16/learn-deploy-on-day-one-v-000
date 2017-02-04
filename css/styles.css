@@ -1,3 +1,6 @@
+/* http://i.imgur.com/sgvNgxy.jpg */
+/* http://i.imgur.com/v1l29Gx.jpg */
+
 
 /* GLOBAL STYLES
 ======================== */
@@ -134,6 +137,14 @@ a:visited {
   height: 400px;
 }
 
+#scott-atkins-cover {
+  background-image: url("http://i.imgur.com/sgvNgxy.jpg");
+}
+
+#scott-atkins-card {
+   background-image: url("http://i.imgur.com/v1l29Gx.jpg");
+}
+
 #art-rodriguez-cover {
   background-image: url("http://i.imgur.com/EwESaI4.jpg");
 }
@@ -197,7 +208,7 @@ a:visited {
 #tom-su-cover {
   background-image: url("http://datas.series-tv-shows.com/pic/tvdb/2448/fanart.jpg");
 }
- 
+
 #tom-su-card {
    background-image: url("http://imgur.com/ftlyRw2.png");
 }
@@ -4626,7 +4637,7 @@ a:visited {
 #rachel-lim-cover {
     background-image: url("http://i.imgur.com/yb6Dn4Y.jpg");
   }
- 
+
 #rachel-lim-card {
     background-image: url("http://i.imgur.com/lFqgSu2.jpg?1");
   }
